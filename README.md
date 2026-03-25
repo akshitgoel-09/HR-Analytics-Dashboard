@@ -43,7 +43,8 @@ The dashboard helps HR teams and decision-makers understand trends, identify ris
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](your-image-link-here)
+![WhatsApp Image 2026-03-25 at 10 50 51 PM](https://github.com/user-attachments/assets/e5c687db-fc37-4099-b05b-269bd7174699)
+)
 
 ---
 
